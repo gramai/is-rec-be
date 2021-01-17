@@ -1,0 +1,17 @@
+SELECT * FROM samples.RESOURCE_MATCH rm
+
+INSERT INTO SAMPLES.RESOURCE_MATCH (id, area, DESCRIPTION , NAME , PROGRAMMING_LANGUAGE , "TYPE" , URL ) VALUES ('1', 'Software Engineering', 'Intellij Idea Description', 'Intellij Idea', 'Java', 'IDE', 'https://www.jetbrains.com/idea/')
+
+INSERT INTO SAMPLES.RESOURCE_MATCH (id, area, DESCRIPTION , NAME , PROGRAMMING_LANGUAGE , "TYPE" , URL ) VALUES ('2', 'Chemistry', 'Neuralink Description', 'Neuralink', NULL, 'Brain Controller', 'https://neuralink.com/')
+
+INSERT INTO SAMPLES.RESOURCE_MATCH (id, area, DESCRIPTION , NAME , PROGRAMMING_LANGUAGE , "TYPE" , URL ) VALUES ('3', '3D Design', 'Autocad Description', 'Autocad', 'Autocad', 'Design Service', 'https://google.com/')
+
+INSERT INTO SAMPLES.RESOURCE_MATCH (id, area, DESCRIPTION , NAME , PROGRAMMING_LANGUAGE , "TYPE" , URL ) VALUES ('4', 'Mathematics', 'Matlab Description', 'Matlab', 'Matlab', 'Math Ecuations Solver', 'https://google.com/')
+
+INSERT INTO SAMPLES.RESOURCE_MATCH (id, area, DESCRIPTION , NAME , PROGRAMMING_LANGUAGE , "TYPE" , URL ) VALUES ('5', 'Mathematics', 'Free Matlab Equivalent', 'Octave', 'Octave', 'Math Ecuations Solver', 'https://google.com/')
+
+INSERT INTO SAMPLES.RESOURCE_MATCH (id, area, DESCRIPTION , NAME , PROGRAMMING_LANGUAGE , "TYPE" , URL ) VALUES ('6', '3D Design', 'AnotherCad Description', 'AnotherCad', 'AnotherCad', 'Design Service', 'https://google.com/')
+
+INSERT INTO SAMPLES.RESOURCE_MATCH (id, area, DESCRIPTION , NAME , PROGRAMMING_LANGUAGE , "TYPE" , URL ) VALUES ('7', 'Software Engineering', 'Visual Studio Code', 'Visual Studio', 'Visual Studio', 'IDE', 'https://google.com/')
+
+INSERT INTO SAMPLES.RESOURCE_MATCH (id, area, DESCRIPTION , NAME , PROGRAMMING_LANGUAGE , "TYPE" , URL ) VALUES ('8', 'Software Engineering', 'Sublime Text', 'Sublime Text', 'Sublime Text', 'IDE', 'https://google.com/')
